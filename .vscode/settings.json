@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "Devmedia",
+    "pokeapi",
+    "pokedex",
+    "pokémon",
+    "pokémons",
+    "Zilla"
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true
+}
